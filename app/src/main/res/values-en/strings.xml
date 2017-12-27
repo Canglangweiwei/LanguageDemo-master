@@ -1,0 +1,10 @@
+<resources>
+    <string name="setting">setting</string>
+    <string name="language">language</string>
+    <string name="lan_chinese">Chinese</string>
+    <string name="lan_en">English</string>
+    <string name="lan_ja">Japanese</string>
+    <string name="lan_de">German</string>
+    <string name="text_content">Hello World!</string>
+    <string name="select_language">Choose a language</string>
+</resources>
